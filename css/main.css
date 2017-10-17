@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+button {
+    margin-top: 1em;
+    padding: .5em .5em .5em 1em !important;
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.hidden {
+    display: none;
+}
